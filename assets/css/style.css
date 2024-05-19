@@ -96,7 +96,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #011aff;
 }
 header .navbar ul {
   list-style: none;
@@ -239,7 +239,7 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: red;
+  color: #011aff;
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -382,7 +382,7 @@ header .navbar ul li a:hover {
 }
 .about .row .content .tag {
   font-size: 1.4rem;
-  color: #020133;
+  color: #011aff;
   font-weight: 600;
   margin-top: 1rem;
 }
@@ -461,7 +461,7 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom,#011aff, #011aff);
+  background: linear-gradient(to bottom, #011aff, #011aff);
 }
 .skills h2 {
   color: #fff;

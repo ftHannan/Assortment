@@ -4,6 +4,22 @@
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
     },
     {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "ChakraUI",
+        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
